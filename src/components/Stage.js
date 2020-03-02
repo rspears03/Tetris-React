@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Cell from './components/Cell'
+import Cell from './Cell'
 
 const Stage = ({ stage }) => (
 <div><Cell /></div>
